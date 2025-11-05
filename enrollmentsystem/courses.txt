@@ -1,0 +1,4 @@
+ITP_1,Object Oriented Programming,5,2
+GE6,Art Appreciation,5,2
+202410374,bsit,3,2
+IPT1,OPEN SOURCE,5,5
